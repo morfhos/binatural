@@ -1,3 +1,4 @@
+/* By MorfHos *-* GOD is Good! */
 AOS.init({
 	duration: 800,
 	easing: 'slide',
